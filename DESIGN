@@ -1,0 +1,12 @@
+each level requires you to hatch a range of chicks
+to produce chicks you need a set of objects 
+
+the requirements for each kind of chick differ
+the progression is that the early levels require easy chicks to pass
+the later levels require harder chicks that require all objects to make to pass
+
+requirements are given by a count of the number of chicks of each kind needed to pass the level
+
+ capability is signified by flashing the kind of chick you can lay
+
+
